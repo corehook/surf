@@ -14,8 +14,8 @@ import (
 	"time"
 
 	"github.com/PuerkitoBio/goquery"
-	"github.com/headzoo/surf/errors"
-	"github.com/headzoo/surf/jar"
+	"github.com/corehook/surf/errors"
+	"github.com/corehook/surf/jar"
 )
 
 // Attribute represents a Browser capability.
